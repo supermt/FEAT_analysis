@@ -1,0 +1,9 @@
+workload,device,throughput,stall count,P99 Latency read,P99 Latency write
+ycsb_a,PM,312612.0,0.0,10.48,5.48
+ycsb_a,NVMeSSD,304969.0,0.0,11.8,5.78
+ycsb_a,SATASSD,301933.0,0.0,11.36,5.57
+ycsb_a,SATAHDD,228300.0,7.0,13.72,5.81
+ycsb_b,PM,516013.0,0.0,7.39,5.82
+ycsb_b,NVMeSSD,508857.0,0.0,7.36,5.86
+ycsb_b,SATASSD,514434.0,0.0,7.04,5.82
+ycsb_b,SATAHDD,498147.0,0.0,7.63,5.87

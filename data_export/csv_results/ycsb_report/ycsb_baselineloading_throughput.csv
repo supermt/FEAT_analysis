@@ -1,0 +1,13 @@
+device workload stage throughput Tuner
+"NVMe SSD" a load 43108.0 Default
+"NVMe SSD" d load 44283.0 Default
+"NVMe SSD" e load 44470.0 Default
+PM a load 77195.0 Default
+PM d load 77366.0 Default
+PM e load 78008.0 Default
+"SATA HDD" a load 12759.0 Default
+"SATA HDD" d load 15221.0 Default
+"SATA HDD" e load 14522.0 Default
+"SATA SSD" a load 23992.0 Default
+"SATA SSD" d load 24202.0 Default
+"SATA SSD" e load 24033.0 Default

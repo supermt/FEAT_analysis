@@ -1,0 +1,97 @@
+device,thread number,batch size,workload,op_type,latency type,load latency,Tuner
+NVMe SSD,1,64MB,a load,write,Average,4.5879,FEAT
+NVMe SSD,1,64MB,a load,write,P99,9.3,FEAT
+NVMe SSD,1,64MB,a load,write,P99.99,28.07,FEAT
+NVMe SSD,1,64MB,b load,write,Average,4.9947,FEAT
+NVMe SSD,1,64MB,b load,write,P99,9.64,FEAT
+NVMe SSD,1,64MB,b load,write,P99.99,1032.05,FEAT
+NVMe SSD,1,64MB,c load,write,Average,12.5495,FEAT
+NVMe SSD,1,64MB,c load,write,P99,21.91,FEAT
+NVMe SSD,1,64MB,c load,write,P99.99,1294.7,FEAT
+NVMe SSD,1,64MB,d load,write,Average,4.4612,FEAT
+NVMe SSD,1,64MB,d load,write,P99,9.15,FEAT
+NVMe SSD,1,64MB,d load,write,P99.99,26.65,FEAT
+NVMe SSD,1,64MB,d run,write,Average,4.6568,FEAT
+NVMe SSD,1,64MB,d run,write,P99,9.53,FEAT
+NVMe SSD,1,64MB,d run,write,P99.99,33.77,FEAT
+NVMe SSD,1,64MB,e load,write,Average,5.3119,FEAT
+NVMe SSD,1,64MB,e load,write,P99,9.72,FEAT
+NVMe SSD,1,64MB,e load,write,P99.99,1013.65,FEAT
+NVMe SSD,1,64MB,e run,write,Average,12.327,FEAT
+NVMe SSD,1,64MB,e run,write,P99,14.9,FEAT
+NVMe SSD,1,64MB,e run,write,P99.99,17998.93,FEAT
+NVMe SSD,1,64MB,f load,write,Average,4.8909,FEAT
+NVMe SSD,1,64MB,f load,write,P99,9.55,FEAT
+NVMe SSD,1,64MB,f load,write,P99.99,45.64,FEAT
+PM,1,64MB,a load,write,Average,7.837,FEAT
+PM,1,64MB,a load,write,P99,20.22,FEAT
+PM,1,64MB,a load,write,P99.99,35.33,FEAT
+PM,1,64MB,b load,write,Average,7.8139,FEAT
+PM,1,64MB,b load,write,P99,20.24,FEAT
+PM,1,64MB,b load,write,P99.99,35.8,FEAT
+PM,1,64MB,c load,write,Average,6.8722,FEAT
+PM,1,64MB,c load,write,P99,14.69,FEAT
+PM,1,64MB,c load,write,P99.99,1286.48,FEAT
+PM,1,64MB,d load,write,Average,8.0065,FEAT
+PM,1,64MB,d load,write,P99,20.37,FEAT
+PM,1,64MB,d load,write,P99.99,34.47,FEAT
+PM,1,64MB,d run,write,Average,7.5137,FEAT
+PM,1,64MB,d run,write,P99,14.93,FEAT
+PM,1,64MB,d run,write,P99.99,40.47,FEAT
+PM,1,64MB,e load,write,Average,7.9074,FEAT
+PM,1,64MB,e load,write,P99,20.33,FEAT
+PM,1,64MB,e load,write,P99.99,37.07,FEAT
+PM,1,64MB,e run,write,Average,12.0706,FEAT
+PM,1,64MB,e run,write,P99,21.87,FEAT
+PM,1,64MB,e run,write,P99.99,1107.67,FEAT
+PM,1,64MB,f load,write,Average,7.8177,FEAT
+PM,1,64MB,f load,write,P99,20.19,FEAT
+PM,1,64MB,f load,write,P99.99,36.37,FEAT
+SATA HDD,1,64MB,a load,write,Average,18.725,FEAT
+SATA HDD,1,64MB,a load,write,P99,9.28,FEAT
+SATA HDD,1,64MB,a load,write,P99.99,99.87,FEAT
+SATA HDD,1,64MB,b load,write,Average,19.7068,FEAT
+SATA HDD,1,64MB,b load,write,P99,9.36,FEAT
+SATA HDD,1,64MB,b load,write,P99.99,89.45,FEAT
+SATA HDD,1,64MB,c load,write,Average,37.4198,FEAT
+SATA HDD,1,64MB,c load,write,P99,1047.85,FEAT
+SATA HDD,1,64MB,c load,write,P99.99,1298.68,FEAT
+SATA HDD,1,64MB,d load,write,Average,20.7885,FEAT
+SATA HDD,1,64MB,d load,write,P99,9.41,FEAT
+SATA HDD,1,64MB,d load,write,P99.99,86.62,FEAT
+SATA HDD,1,64MB,d run,write,Average,4.7543,FEAT
+SATA HDD,1,64MB,d run,write,P99,8.95,FEAT
+SATA HDD,1,64MB,d run,write,P99.99,80.04,FEAT
+SATA HDD,1,64MB,e load,write,Average,19.4524,FEAT
+SATA HDD,1,64MB,e load,write,P99,9.22,FEAT
+SATA HDD,1,64MB,e load,write,P99.99,92.29,FEAT
+SATA HDD,1,64MB,e run,write,Average,18.4188,FEAT
+SATA HDD,1,64MB,e run,write,P99,14.81,FEAT
+SATA HDD,1,64MB,e run,write,P99.99,36751.7,FEAT
+SATA HDD,1,64MB,f load,write,Average,17.8078,FEAT
+SATA HDD,1,64MB,f load,write,P99,9.27,FEAT
+SATA HDD,1,64MB,f load,write,P99.99,76.67,FEAT
+SATA SSD,1,64MB,a load,write,Average,8.4335,FEAT
+SATA SSD,1,64MB,a load,write,P99,9.49,FEAT
+SATA SSD,1,64MB,a load,write,P99.99,146.51,FEAT
+SATA SSD,1,64MB,b load,write,Average,10.4124,FEAT
+SATA SSD,1,64MB,b load,write,P99,9.71,FEAT
+SATA SSD,1,64MB,b load,write,P99.99,984.34,FEAT
+SATA SSD,1,64MB,c load,write,Average,17.6321,FEAT
+SATA SSD,1,64MB,c load,write,P99,46.71,FEAT
+SATA SSD,1,64MB,c load,write,P99.99,1296.26,FEAT
+SATA SSD,1,64MB,d load,write,Average,9.6242,FEAT
+SATA SSD,1,64MB,d load,write,P99,9.76,FEAT
+SATA SSD,1,64MB,d load,write,P99.99,1082.93,FEAT
+SATA SSD,1,64MB,d run,write,Average,5.3573,FEAT
+SATA SSD,1,64MB,d run,write,P99,8.9,FEAT
+SATA SSD,1,64MB,d run,write,P99.99,99.02,FEAT
+SATA SSD,1,64MB,e load,write,Average,10.0445,FEAT
+SATA SSD,1,64MB,e load,write,P99,9.61,FEAT
+SATA SSD,1,64MB,e load,write,P99.99,115.08,FEAT
+SATA SSD,1,64MB,e run,write,Average,11.4662,FEAT
+SATA SSD,1,64MB,e run,write,P99,14.92,FEAT
+SATA SSD,1,64MB,e run,write,P99.99,8789.54,FEAT
+SATA SSD,1,64MB,f load,write,Average,10.128,FEAT
+SATA SSD,1,64MB,f load,write,P99,9.73,FEAT
+SATA SSD,1,64MB,f load,write,P99.99,935.59,FEAT

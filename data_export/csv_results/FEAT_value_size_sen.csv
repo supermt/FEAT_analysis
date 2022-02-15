@@ -1,0 +1,13 @@
+,device,thread number,batch size,value size,latency type,latency
+0,NVMe SSD,2,64MB,PM_results_FEAT_value_size,Average,2.8175
+1,NVMe SSD,2,64MB,PM_results_FEAT_value_size,P99,5.12
+2,NVMe SSD,2,64MB,PM_results_FEAT_value_size,P99.99,20.99
+3,PM,2,64MB,PM_results_FEAT_value_size,Average,2.8172
+4,PM,2,64MB,PM_results_FEAT_value_size,P99,5.01
+5,PM,2,64MB,PM_results_FEAT_value_size,P99.99,21.09
+6,SATA HDD,2,64MB,PM_results_FEAT_value_size,Average,2.9937
+7,SATA HDD,2,64MB,PM_results_FEAT_value_size,P99,5.14
+8,SATA HDD,2,64MB,PM_results_FEAT_value_size,P99.99,21.36
+9,SATA SSD,2,64MB,PM_results_FEAT_value_size,Average,2.8101
+10,SATA SSD,2,64MB,PM_results_FEAT_value_size,P99,5.07
+11,SATA SSD,2,64MB,PM_results_FEAT_value_size,P99.99,33.11

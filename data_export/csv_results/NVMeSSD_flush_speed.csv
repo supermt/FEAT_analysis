@@ -1,0 +1,41 @@
+device "flush gap" "CPU count" "flush speed" Stdev throughput Tuner
+"NVMe SSD" PM_results_traversal_1hour 10 162.18 47.75 38.5 Default
+"NVMe SSD" PM_results_traversal_1hour 12 152.97 52.09 38.5 Default
+"NVMe SSD" PM_results_traversal_1hour 14 147.79 53.78 38.3 Default
+"NVMe SSD" PM_results_traversal_1hour 16 139.72 53.7 37.8 Default
+"NVMe SSD" PM_results_traversal_1hour 18 142.91 55.72 37.5 Default
+"NVMe SSD" PM_results_traversal_1hour 2 227.16 21.58 28.2 Default
+"NVMe SSD" PM_results_traversal_1hour 20 140.14 55.71 37.0 Default
+"NVMe SSD" PM_results_traversal_1hour 4 196.7 33.12 38.4 Default
+"NVMe SSD" PM_results_traversal_1hour 6 184.91 39.41 38.7 Default
+"NVMe SSD" PM_results_traversal_1hour 8 174.44 41.93 38.8 Default
+PM PM_results_traversal_1hour 10 235.18 21.27 38.9 Default
+PM PM_results_traversal_1hour 12 240.14 24.3 39.6 Default
+PM PM_results_traversal_1hour 14 235.38 22.95 39.3 Default
+PM PM_results_traversal_1hour 16 237.0 22.39 39.3 Default
+PM PM_results_traversal_1hour 18 236.83 22.86 39.5 Default
+PM PM_results_traversal_1hour 2 264.94 23.01 30.4 Default
+PM PM_results_traversal_1hour 20 237.49 24.09 38.6 Default
+PM PM_results_traversal_1hour 4 248.93 25.8 38.8 Default
+PM PM_results_traversal_1hour 6 251.98 29.29 38.9 Default
+PM PM_results_traversal_1hour 8 234.84 22.34 39.0 Default
+"SATA HDD" PM_results_traversal_1hour 10 30.88 23.38 14.8 Default
+"SATA HDD" PM_results_traversal_1hour 12 34.26 25.52 16.8 Default
+"SATA HDD" PM_results_traversal_1hour 14 33.11 24.14 15.2 Default
+"SATA HDD" PM_results_traversal_1hour 16 29.6 21.39 14.0 Default
+"SATA HDD" PM_results_traversal_1hour 18 35.57 25.43 15.9 Default
+"SATA HDD" PM_results_traversal_1hour 2 57.96 15.68 11.9 Default
+"SATA HDD" PM_results_traversal_1hour 20 32.49 23.06 14.6 Default
+"SATA HDD" PM_results_traversal_1hour 4 38.49 18.2 18.5 Default
+"SATA HDD" PM_results_traversal_1hour 6 32.76 20.47 15.9 Default
+"SATA HDD" PM_results_traversal_1hour 8 35.38 24.04 18.6 Default
+"SATA SSD" PM_results_traversal_1hour 10 61.24 39.84 26.6 Default
+"SATA SSD" PM_results_traversal_1hour 12 59.71 40.28 26.0 Default
+"SATA SSD" PM_results_traversal_1hour 14 61.33 41.91 25.7 Default
+"SATA SSD" PM_results_traversal_1hour 16 58.8 40.39 25.3 Default
+"SATA SSD" PM_results_traversal_1hour 18 59.92 41.21 25.3 Default
+"SATA SSD" PM_results_traversal_1hour 2 105.36 25.2 17.8 Default
+"SATA SSD" PM_results_traversal_1hour 20 58.69 39.83 24.8 Default
+"SATA SSD" PM_results_traversal_1hour 4 69.05 31.37 26.5 Default
+"SATA SSD" PM_results_traversal_1hour 6 57.06 34.48 26.9 Default
+"SATA SSD" PM_results_traversal_1hour 8 61.49 37.83 26.6 Default

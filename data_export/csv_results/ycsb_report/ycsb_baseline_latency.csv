@@ -1,0 +1,25 @@
+device workload stage op_type "latency type" "load latency" Tuner
+"NVMe SSD" A load write P99 1021.95 Default
+"NVMe SSD" A load write P99.99 1297.95 Default
+PM A load write P99 21.36 Default
+PM A load write P99.99 1295.44 Default
+"SATA HDD" A load write P99 1218.3 Default
+"SATA HDD" A load write P99.99 1479.71 Default
+"SATA SSD" A load write P99 1141.05 Default
+"SATA SSD" A load write P99.99 1299.15 Default
+"NVMe SSD" D load write P99 1012.86 Default
+"NVMe SSD" D load write P99.99 1297.91 Default
+PM D load write P99 21.29 Default
+PM D load write P99.99 1295.29 Default
+"SATA HDD" D load write P99 1202.44 Default
+"SATA HDD" D load write P99.99 1466.31 Default
+"SATA SSD" D load write P99 1140.78 Default
+"SATA SSD" D load write P99.99 1299.11 Default
+"NVMe SSD" E load write P99 1012.23 Default
+"NVMe SSD" E load write P99.99 1297.87 Default
+PM E load write P99 21.29 Default
+PM E load write P99.99 1295.17 Default
+"SATA HDD" E load write P99 1207.93 Default
+"SATA HDD" E load write P99.99 1479.91 Default
+"SATA SSD" E load write P99 1139.75 Default
+"SATA SSD" E load write P99.99 1299.13 Default

@@ -1,0 +1,13 @@
+device workload stage throughput Tuner
+"NVMe SSD" a load 104721.0 FEAT
+"NVMe SSD" d load 87877.0 FEAT
+"NVMe SSD" e load 121511.0 FEAT
+PM a load 220706.0 FEAT
+PM d load 193956.0 FEAT
+PM e load 213463.0 FEAT
+"SATA HDD" a load 16250.0 FEAT
+"SATA HDD" d load 18391.0 FEAT
+"SATA HDD" e load 21720.0 FEAT
+"SATA SSD" a load 37630.0 FEAT
+"SATA SSD" d load 38551.0 FEAT
+"SATA SSD" e load 46734.0 FEAT
